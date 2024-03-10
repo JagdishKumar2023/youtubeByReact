@@ -37,7 +37,7 @@ nav {
 
 .nav-right img {
   width: 25px;
-  border-radius: 50%;
+  margin-right: 25px;
 }
 
 .nav-right .user-icon {
