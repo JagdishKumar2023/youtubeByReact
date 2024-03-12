@@ -5,7 +5,7 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./Home/Home.jsx";
 
 const App = () => {
-  const [sidebar, setSidebar] = useState(true);
+  const [sidebar, setSidebar] = useState(false);
 
   return (
     <div>

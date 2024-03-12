@@ -1,6 +1,11 @@
 import React from "react";
-import "../Home/Home.css";
+import "./Vedio.css";
+import PlayVedio from "../PlayVedio/PlayVedio";
 
 export const Vedio = () => {
-  return <div>Vedio</div>;
+  return (
+    <div className="playContainer">
+      <PlayVedio />
+    </div>
+  );
 };

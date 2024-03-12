@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
 const Feed = () => {
   return (
     <div className="feed">
-      <Link to={`vedio/20/4521`} className="card">
+      <Link to={`video/20/4521`} className="card">
         <img src={thumbnail1} alt="" />
         <h2>
           Best channel to learn coding that help you to be a web developer
